@@ -1,5 +1,7 @@
 this is the first line
 this is the second line     #complete lines
-this is the third line       #complete third lines
+this is the third line       #complete third line
 this is the forth line
 this is the fifth line
+this is the sixth line     #second developer adding line
+this is the seveth line    #second developer adding line
