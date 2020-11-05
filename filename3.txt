@@ -1,2 +1,4 @@
 This is the filename3
 adding second line after placing the file inside .gitignore
+placing same filename3.txt under .gitignore
+end of the line
