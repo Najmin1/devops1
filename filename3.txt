@@ -1,2 +1,0 @@
-This is the filename3
-adding second line after placing the file inside .gitignore
